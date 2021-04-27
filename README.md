@@ -6,7 +6,7 @@ Please make sure chrome is installed and PATH contains the correct path location
 the PATH variable leads to C: \ Programs File (x86).
 Find out which version of chromedriver you need to download in this link: https://chromedriver.chromium.org/downloads
 
-Please make sure you have installed python.
+Please make sure you have installed python 3.
 You can download all the additional modules using this command in the Linux terminal:
 pip install -r requirements.txt
 
