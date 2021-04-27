@@ -7,6 +7,7 @@ the PATH variable leads to C: \ Programs File (x86).
 Find out which version of chromedriver you need to download in this link: https://chromedriver.chromium.org/downloads
 
 The files require the user agent of your computer. You can find your user agent using this website: https://www.whatismybrowser.com/detect/what-is-my-user-agent
+
 Replace the user_agent variable with a string of your user agent.
 
 Please make sure you have installed python 3.
