@@ -15,7 +15,7 @@ You can download all the additional modules using this command in the Linux term
 pip install -r requirements.txt
 
 To download the files, you can copy and paste the code into other python files or fork this repository and then clone the subsequent forked repository.
-Or you can click on the clone button and download the files in a zip file and then extract the relevant files from there.
+Or you can click on the green code button and download the files in a zip file and then extract the relevant files from there.
 
 # Usage
 ## General
